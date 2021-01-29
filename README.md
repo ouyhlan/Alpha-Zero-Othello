@@ -1,5 +1,11 @@
-# Alpha-Zero-Othello
+# Alpha Zero Othello
+
+这是AlphaZero算法基于黑白棋的实现
+
+
+
 ## 仓库文件组成
+
 - report.pdf 实验报告
 - src 源代码文件夹
     - App.py	  可视化黑白棋源代码
